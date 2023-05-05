@@ -1,0 +1,2 @@
+print('ew')
+print('as')
